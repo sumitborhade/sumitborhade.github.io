@@ -214,6 +214,9 @@ a:hover {
 }
 
 @media (max-width:450px) {
+  .sub-heading {
+    text-align: center;
+  }
   .header-outer {
     position: fixed;
   }
