@@ -26,4 +26,4 @@
 
 [Blog-Kurtis](https://blogs.pehnavakart.com/index.php/2023/03/10/kurtis/) 
 
-[Blog-Jumpsuit](https://blogs.pehnavakart.com/index.php/2023/03/10/jumpsuit/
+[Blog-Jumpsuit](https://blogs.pehnavakart.com/index.php/2023/03/10/jumpsuit/)
